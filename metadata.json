@@ -1,0 +1,7 @@
+{
+  "name": "State Health Logistics Command (SHLC)",
+  "description": "State-level AI medicine supply intelligence for forecasting and epidemic control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
